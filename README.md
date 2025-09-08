@@ -21,6 +21,3 @@ flutter run
 
 https://github.com/amityadav137/Hands-on-Assignment-1-Construct-Your-First-Flutter-App-using-Dart
 
-## Screenshot
-
-![alt text](image.png)
